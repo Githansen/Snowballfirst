@@ -1,0 +1,11 @@
+body {
+background-image: url("../IMAGES/carrotbackground.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+
+
+h2 {
+	text-align: center;
+}

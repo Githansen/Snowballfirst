@@ -1,0 +1,11 @@
+body {
+background-image: url("../IMAGES/tomatofarm.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+/* https://unsplash.com/photos/iOL-0GJY-DM */
+
+h2 {
+	text-align: center;
+}
